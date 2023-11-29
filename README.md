@@ -30,14 +30,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 
-<img width="1440" alt="Screenshot 2023-11-26 at 3 59 25 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/b9a2fc4e-02b5-4556-80a0-32a798a4eded">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 56 01 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/ebf75591-4b77-46b6-aa36-0c4c2dac22fb">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 52 16 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/d72666d2-9bf0-4c4a-a53c-320f2f37d950">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 51 36 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/2e7a884a-b403-436e-bbef-0ffdada444d9">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 50 45 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/44e31ea9-d8f7-4d0e-be40-b86ae3bd3d1f">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 46 30 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/b6755b57-f48c-4d2b-b713-0ddf6049c1b5">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 44 57 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/3afef593-a355-41f3-8664-72ab8d3177d9">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 43 07 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/a7127adb-c00f-4d6e-aa5d-1390c3b193ec">
+
+
 
 
 
@@ -75,13 +69,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-
+<img width="1440" alt="Screenshot 2023-11-26 at 3 43 07 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/a7127adb-c00f-4d6e-aa5d-1390c3b193ec">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 44 57 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/3afef593-a355-41f3-8664-72ab8d3177d9">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 46 30 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/b6755b57-f48c-4d2b-b713-0ddf6049c1b5">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 50 45 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/44e31ea9-d8f7-4d0e-be40-b86ae3bd3d1f">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 51 36 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/2e7a884a-b403-436e-bbef-0ffdada444d9">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 52 16 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/d72666d2-9bf0-4c4a-a53c-320f2f37d950">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 56 01 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/ebf75591-4b77-46b6-aa36-0c4c2dac22fb">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 59 25 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/b9a2fc4e-02b5-4556-80a0-32a798a4eded">
 <p>
+  <p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
   <img width="1440" alt="Screenshot 2023-11-26 at 4 00 15 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/94da6174-9072-41e7-8d95-8912fad13c5e">
 <img width="1440" alt="Screenshot 2023-11-26 at 4 01 42 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/1e8b1517-ba49-47ed-8eba-ed22ec21293f">
 <img width="1440" alt="Screenshot 2023-11-26 at 4 04 48 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/50e10303-23ee-4d82-a417-f0f63b97a33f">
 
 </p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
