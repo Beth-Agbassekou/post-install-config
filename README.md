@@ -38,12 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1440" alt="Screenshot 2023-11-26 at 3 46 30 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/b6755b57-f48c-4d2b-b713-0ddf6049c1b5">
 <img width="1440" alt="Screenshot 2023-11-26 at 3 44 57 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/3afef593-a355-41f3-8664-72ab8d3177d9">
 <img width="1440" alt="Screenshot 2023-11-26 at 3 43 07 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/a7127adb-c00f-4d6e-aa5d-1390c3b193ec">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 42 28 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/97d99942-d02d-4472-9f58-fc5279ef73df">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 39 19 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/176f2299-21dc-48e3-a0f9-e806fbda3f11">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 39 12 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/14a377bf-2d73-49bc-b67d-41efd126591d">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 39 04 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/65b40721-b596-4dbe-b82e-dc159a964208">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 35 51 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/62a54328-5564-45ae-8108-d41fc334726d">
-<img width="1440" alt="Screenshot 2023-11-26 at 3 35 08 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/0d3d4067-21e1-4d72-b773-9a900eecd83d">
+
 
 
 
@@ -69,7 +64,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="Screenshot 2023-11-26 at 3 35 08 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/0d3d4067-21e1-4d72-b773-9a900eecd83d">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 35 51 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/62a54328-5564-45ae-8108-d41fc334726d">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 39 04 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/65b40721-b596-4dbe-b82e-dc159a964208">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 39 12 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/14a377bf-2d73-49bc-b67d-41efd126591d">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 39 19 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/176f2299-21dc-48e3-a0f9-e806fbda3f11">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 42 28 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/97d99942-d02d-4472-9f58-fc5279ef73df">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
