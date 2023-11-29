@@ -60,8 +60,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="1440" alt="Screenshot 2023-11-26 at 3 35 08 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/0d3d4067-21e1-4d72-b773-9a900eecd83d">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 35 51 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/62a54328-5564-45ae-8108-d41fc334726d">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 39 04 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/65b40721-b596-4dbe-b82e-dc159a964208">
+
+  </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
