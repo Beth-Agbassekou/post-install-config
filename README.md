@@ -1,4 +1,3 @@
-<img width="1440" alt="Screenshot 2023-11-26 at 3 51 36 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/6cafad74-0326-4127-9036-04db95e695e1"><p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -62,6 +61,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img width="1440" alt="Screenshot 2023-11-26 at 3 35 08 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/0d3d4067-21e1-4d72-b773-9a900eecd83d">
 <img width="1440" alt="Screenshot 2023-11-26 at 3 35 51 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/62a54328-5564-45ae-8108-d41fc334726d">
+<img width="1440" alt="Screenshot 2023-11-26 at 3 51 36 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/6cafad74-0326-4127-9036-04db95e695e1"><p align="center">
+
 <img width="1440" alt="Screenshot 2023-11-26 at 3 39 04 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/65b40721-b596-4dbe-b82e-dc159a964208">
 
   </p>
