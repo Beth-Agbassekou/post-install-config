@@ -4,10 +4,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -40,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1440" alt="Screenshot 2023-11-26 at 3 42 28 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/97d99942-d02d-4472-9f58-fc5279ef73df">
 </p>
 <p>
-The first thing I did was set up a role called Supreme Admin, to practice setting permissions. When creating the role of Supreme Admin I wanted to allow all permissions to test how roles work. I allowed all permissions, to see how roles work, especially with elevated permission. I created a new team of Level I Support and Level II Support 
+The first thing I did was set up a role called Supreme Admin, to practice setting permissions. When creating the role of Supreme Admin I wanted to allow all permissions to test how roles work. I allowed all permissions, to see how roles work, especially with elevated permission. I also added a new department called System Administrators and gave that group System Administrator privileges. 
 </p>
 <br />
 <img width="1440" alt="Screenshot 2023-11-26 at 3 43 07 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/a7127adb-c00f-4d6e-aa5d-1390c3b193ec">
@@ -52,15 +48,14 @@ The first thing I did was set up a role called Supreme Admin, to practice settin
 <img width="1440" alt="Screenshot 2023-11-26 at 3 59 25 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/b9a2fc4e-02b5-4556-80a0-32a798a4eded">
 <p>
   <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+ I created a new team of Level I Support and Level II Support. Then, I created agents and users to create tickets. Level I support has entry-level permissions and can escalate privileges. Then Level II support is in between Level I support and System Admin. So they have some more privileges, but no admin permissions. 
+  </p>
   <img width="1440" alt="Screenshot 2023-11-26 at 4 00 15 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/94da6174-9072-41e7-8d95-8912fad13c5e">
 <img width="1440" alt="Screenshot 2023-11-26 at 4 01 42 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/1e8b1517-ba49-47ed-8eba-ed22ec21293f">
 <img width="1440" alt="Screenshot 2023-11-26 at 4 04 48 PM" src="https://github.com/Beth-Agbassekou/post-install-config/assets/148320585/50e10303-23ee-4d82-a417-f0f63b97a33f">
-
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this portion, I created Service Level Agreements. I created three Service Level Agreements: SEV-A, SEV-B, and SEV-C, respectively. SEV-A is an SLA I created to contact the client every hour on a 24-hour scale until this is solved. SEV-A is for an extreme business critical emergency. SEV-B is an SLA that requires employees to contact the client every 4-hours on a 24-hour scale until this is resolved. This is for a moderate business crisis. SEV-C is an SLA that was created to address minor issues including Level I IT Support issues. SEV-C works by contacting the customer every 8 hours on a normal business schedule including holidays. I also created Help Topics. The Help Topics I created were Password Reset, Personal Computer Issues, Equipment Reset, and Business Critical Outage.
 </p>
 <br /># post-install-config
